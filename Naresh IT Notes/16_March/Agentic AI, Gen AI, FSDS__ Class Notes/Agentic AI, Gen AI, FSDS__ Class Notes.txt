@@ -1,0 +1,937 @@
+=====
+Full Stack Data Science with Gen AI & Agentic AI @ 10:30 AM (IST) by Mr. Prakash Senapathi From 2nd March
+Webinar Link: https://zoom.us/j/86262254572
+=====
+
+1- QR Code ( Join the group) 
+we will posting course content 
+Recording classes if someone is absent you can follow the recording from the whats app group 
+
+2- Name of the Course -->
+		FULL STACK DATASCIENCE , GENERATIVE AI & AGENTIC AI with python 
+					1- full stack ds with python 
+					2- full stack gen ai with python 
+					3- full stack agentic ai with python 
+		
+		full stack -- backed + frontend 
+					backed code 
+					frontedn code 
+					
+3- who am i ? why shoud you trust me ? whats my experience 
+		My name is prakash senapati 
+		18+ mnc | 13+ -- teaching | 6+ in nareshit 
+
+4- Every body some question in your brain ( one by one all your question will clearning)
+			1hr you listend | you speak i will listen 
+			
+5- session is going on offline model & Online model & hybrid model 
+				0 know -- please atenc infront me 
+				attend throght online 
+
+6- duratnion of batch -- 6month 
+			timing - 10:30 am - 12 pm IST 
+		
+	
+7- Offiline lab - 3rd floor & online lab -- i will share zoom link 
+		whil you work if you have any question then you ask them ( they can guide you) 
+					
+
+8- probability concepte we studint in 10th class, 7th class 
+		real time where are we using real time 
+						are book the flight ticket, train tikenc -- use there 
+									probability 
+									
+9- experience jobs are danger ( every must need to adapt AI) 
+
+10- list of famous llm model ( large language model)
+		chatgpt -- openai 
+		llama -- meta (facebook)
+		gemini ai -- google - google deepmind 
+		claude - anthropic 
+		deepseek -- deepseek 
+		kimi -- moonshoot ai 
+		openclaw 
+		grok - xai (x + ai ) x + artificial intellginece
+		sarvam -- indian llm ( research) 
+		
+11- course content -- will you download & take print out 
+
+12- what is advance gen ai, ml, ai, agentic ai -- framwork just overview 
+			how very very advacned topic would be covers 
+			
+=== 3rd 
+
+1- once you scan qr code -- we will be sharing course syllabus copy to you
+
+2- if my admin calls you please pick the call -- 
+			
+FSDS + AI + GENERATIVE AI + AGENTIC AI ( python programming) 
+
+	fresher 
+	expereince 
+	career gap you can attend 
+	working professionl 
+		
+		
+		if any question i will answer your ok manoj ok surendar 
+		just calm down,  
+
+3- prerquired to learn this course 
+		1- every day 4 hr (2hr + 2hr) 
+		2- speed typing 
+		3- fresher -- apply jobs in job poratl 3 month 
+		
+4- 4gb requrest you to please mighate 8gbb ssd ram 
+		4gb please install to 8gb | i5 process require | wind 10 or 11 | mac -- 256gb lets llm model 
+		
+5- java -- java developer | .net -- .net developer | software engineer 
+
+6-  only to show you that how fresher & experience learner got placed after learning this 6 month program 
+	fresher -- offers  
+	experience -- offers 
+	
+7- q & a time
+
+
+-- Installation video in whatsapp 
+		can you watch the video and install software 
+		
+-- anthropic 
+
+
+18yr 
+.net -- 1y 
+java embe - 2yr wipro
+analysis engineer - 2.5
+tcs - 5yr 
+fsd - 5yr 
+=== 
+techh mahindar - aws sas 
+iot & ai -- 
+java 
+sql, adl, cloud, non cloud 
+kafka, adf, adls 
+=== 
+60lpa -- 2mnth 
+70lpa -- 2mont 
+===
+
+==== 4th 
+
+today onwards i will be explaining all technical termes 
+yesterday we started a batch -- i justed introduce about the terms 
+
+1- Name of the course 
+2- About my introduction 
+3- Who can learn this course 
+4- How much time you need to give to learn this course 
+5- About job placement & yesterday i show the offer lerter from 2020 - 2026 
+6- Laptop configuration required for this course 
+7- How many jobs you can apply after you learn this course 
+8- Prerequisite required for this course 
+9- Course content 
+
+today we are at day 3 
+---
+Course Roadamp -->
+---
+1- dedication, consisten, class code practise, attend the lab, give exam i alternative weeks 
+2  python -- basic, advacen oops, datastructructure 
+3- business, data analysis , eda (explarator data analysis) , numpy, pandas, plt, sns 
+4- stats, advacned data analysis , sql, stats, math, linear algebra
+5- machine learning -- regression model, classification, clustering , time series 
+6- 
+
+time series -- AR, MA, ARMA , ARIMA, ARIMAX, SARIMA, SARIMAX 
+
+ 
+ regarding job place if yu wath yesterday video -- 20 min i spoke about palcement from 2020 - 2026
+		
+internet stop -- jobs are stop 
+cloud, data enginneer 
+
+human intelligence-- 
+
+humna intellience i plug in to machine thats become ai -- artificial intellience 
+
+AI -- machine mimic human bahaviour is called 
+
+how i can plug in to machine answer using library --
+	sklearn machine learning framework 
+	tensorflow 
+	keras 
+	langchain
+	langgraph 
+
+HI vs AI 
+
+what is AI ?
+founder of Ai ?
+How AI used in social media ?
+		face verification 
+		birthday notification 
+		block offensive tweets
+
+help to build chatbot for banking application, BFSI 
+
+	BANKING 
+	FINANCE 
+	SERVICE  
+	INSURANCE 
+
+in your resume so please build the project on these domain then only you will get interview called 
+	
+	Live project means what ?  
+	live project == domain which is alwasy live 
+	capstone project = project in your resume which alwas live 
+	
+if you need more salary you must apply atleat 1 or 2 bankin gproject 
+
+	bank -- stock 
+	bank -- constuction 
+	bank -- govt 
+	
+live project == capstone project 
+		BFSI domain 
+		AI + ELECTRONIC = IOT (internet of things) 
+			
+hdfc bank -- what is ther is not chatbot 
+		1l custoer quer in min 
+
+		chatbot -- 
+
+6yr back -- amazon -- pay the price -- bought 
+
+laptop -- screengude, back pack , -- recommandation engine 
+	amazin -- gro -- mutli
+
+2017 - 2024 -- ML & AI 
+2025- 2030 -- LLM , GENAI, AGENTIC AI 
+Quantum ai -- microsoft, google -- buiild quantuc 
+
+today i will be shareing installative video -- please watch that & install after eh class 
+tomommor onwar i willwe
+
+join the cours
+practicel the code 
+show the code -- linkedin plat, medium bog, gitaccount 
+
+==== 5th 
+
+====Covered topics -->
+1- Name of the course 
+2- About my introduction 
+3- Who can learn this course -- who can hunger to get job , money, educated will join 
+4- How much time you need to give to learn this course -- freher 4-5 hr exper, - spend mroe 
+5- About job placement & yesterday i show the offer lerter from 2020 - 2026 -- 
+6- Laptop configuration required for this course 
+7- How many jobs you can apply after you learn this course 
+8- Prerequisite required for this course -- consistence, daily class practicse, exam , give interview 
+9- Course content -- scan content 
+10- roadmap for this course 
+
+----
+Agenda for today session -->
+----
+1- how many live project we are going to work -completed 
+2- what certification you will get -- completed 
+3- how to get notes from me on daily basis & how to upload notes 
+4- how many of them has installed anaconda ( how to install the software for datascei, ai, genai, agenticai)
+5- git hub crateion 
+6- software installation 
+7- question & answer -- PENDIN G
+8- enrollment window will open -- DONE 
+9- salary range - DONE 
+=========
+
+Human vision
+Computer vision is part of Ai project 
+Us, uk , abroad please reach out to me personally -- i will few things which is valid for you 
+abroad -- certificatio mandaroy 
+india -- skill in mandatory 
+
+===== 6th 
+
+1- We revised what we discussed yeserday - done 
+2- python introduction 
+3- software installation 
+			google colab 
+			vs code
+			anaconda in window & mac 
+			pycharm 
+
+--------
+PYTHON INTRO -->
+--------
+
+beggineer, dont have anyknowledge then python is very best 
+i will cover all the topics from scrach to expert level 
+if you dont have any you can easily work with me 
+course content -- planning designed 6month -- easy level -- medium - hard -- expert leve 
+course content is not for college studet, industry standar programm i designed same thing  i will explain 
+
+if you learn python -- python can integrate to database, 
+py to db | python to cloud | py - ml | py - ai | py - gen ai | py - agentic ai | py - llm develo 
+	python - gaming | python developer 
+
+
+python has develope only for non technical  
+python is way easy then java, c, c++, .net, oracle, db etc 
+jave if you write 10 lince code python we wirtimport pkg can take care for ir 
+
+python will not work in android mobile application 
+not required to join python classes separetly -- we cover hear 
+gpt also provide wrong result -- rag topic comes to the picture 
+
+
+WHAT IS PYTHON IDE?
+		Integrated development environment 
+	
+developer can using the ide -- write the code, run the code, get the error & Fix the error 
+	error - bugs | fix the error -- debugging 
+	
+list of ides we are using this course -->
+
+code 
+	vs code -- visual studio code 
+						c, c++, java, python, ds, gen ai, every 
+	microsoft create 
+
+Agentic ai ide -->
+	google created antigravity ide 
+	cline ide
+	cursor 
+
+when we active this agetic ai ide agents are activate and viruta agent build the project for me automatically 
+oragnizat are using this ide to fire employess 
+
+
+2- python interpreter vs compiler 
+		
+		interpreter -- excute the code single line (line by line ) or piece of code run at once 
+		compiler -- deployment phase entire code need to run once 
+		
+python is interpreter or compiler -- both 
+f you dont know any programming language then you are the best person to learn PYTHON
+
+java , c, c++ -- please do not compare python 
+if you already python just calm down -- you feel easy 
+
+3- python is object oriented programing lange 
+			a = 5
+		
+		guido van rosam - complete monty python's flying circus'' - broadcasted in BBC channel	
+	
+	python 
+
+4- Java released on 1995. 
+	python was released on 1989
+	
+	but python was not used till 2015 
+	when slownly datasciecen ml, ai -- python play top 1 in the world ( next 10-15yr) 
+			
+5- python is dynamic programming language | python can not perform in mobile application like android
+
+6- big data , datascience, gen ai, ai, agenic -- ANACONDA PYTHON 
+
+7- import sys
+	sys.version 
+	
+5- 10 / 5 = 2.0 ( float division)
+		10 // 5 = 2 
+---		
+task -- > 
+---
+1- work with number 
+
+	number = integer ( int) 
+	text = string (str) 
+
+_ -- it store previous value 
+		_ we will be using in computer vision algorith a lot 
+		
+		
+=== install all the software 
+
+1- vs code with datascience extension 
+  google -- vscode - download software - install the software 
+	next - next - finish 
+	
+2- you need to install the extension for datascience, ai, gen ai, agentic ai 
+			github copilot 
+			jupyter 
+			office viewer 
+			pylance 
+	
+3- system cmd -- check the path location -- create one (AVSCODE)
+4- vs code -- terminal -- check you got same cmd prompt 
+5- download python -- download python 
+
+=== 9th 
+
+1- python variable declarion & rules to define python variable -- completed 
+
+2- github installation & how to commit all the daily code in to your github lifetime - completed 
+
+3- how to download classnotes from google classroom -- completed 
+4- how to upload the learner notes so that i can see your code -- completd 
+5- question & answer i discuss 
+6- I  will revise one more time from last 10-15min 
+7- i will shar ethe link for installation please do that 
+8- mentor whom to reach out 
+9- after enrollment what process you need to do 
+
+===
+
+who every exper in python i want you guys to calm downl 
+Pyhont - stat, ds, ml, ai, gen ai, agenitic 
+DSA is not rquired for ml, ai, genai &  agentic ai 
+Batch contain -- (85% - 90%) non technical , 10% technical 
+learnthis -- fresher & experience last week i show 2 of my frerhs 
+
+=== python variable ===
+
+name == variable = object = identifier 
+
+inteview ( technical panel -- vairable, object or identifier) 
+		=====
+			variable syntax -->
+		======
+							name = value ( variable = vlaue) 
+
+
+nit = 1030 
+	 variable -- nit 
+	 value -- 1030 
+	 
+variable == object  
+value == datatypes  
+
+python datatypes 
+		integer 
+		float 
+		complex 
+		bool
+		string 
+
+In the code when you mention # -- comments 	
+
+do not compare with java, sql, oracle -- ask question hera
+
+rules to define python variable -->
+---
+1- Doesnot start with number but It end with number 
+2- Variables are case sensitive (lowercase & upper case) 
+3- Special character are not allowed 
+4- Only _ is allowed 
+5- Reserver word or keywords cannot declare as variable 
+	['False',
+ 'None',
+ 'True',
+ 'and',
+ 'as',
+ 'assert',
+ 'async',
+ 'await',
+ 'break',
+ 'class',
+ 'continue',
+ 'def',
+ 'del',
+ 'elif',
+ 'else',
+ 'except',
+ 'finally',
+ 'for',
+ 'from',
+ 'global',
+ 'if',
+ 'import',
+ 'in',
+ 'is',
+ 'lambda',
+ 'nonlocal',
+ 'not',
+ 'or',
+ 'pass',
+ 'raise',
+ 'return',
+ 'try',
+ 'while',
+ 'with',
+ 'yield'] 
+		35 keywords in python 
+	
+any peron complete 35 keyword indepth - python is complete 
+		
+	
+If you guys are speed in typing you can work with me in the class 
+slow typing please listen the class please practise all the code post in the classroom 
+
+In python whenever you write true, false, none you guys must need two True, False, None 
+
+
+python variable
+how to define python variable
+rules to define python variable 	
+
+
+when you work in any code immediately post in github 
+	keep your code -- safe
+	
+--
+Steps to install github -->
+--
+1- google -- github.com -- sigin to your gmail 
+2- mobile - playstore - download github 
+3- github home page 
+4- click on profile -- upload you profession pic -- after you edit 
+5- repository -- repo --folder -- rename folder 
+6- upload existing file - upload file 
+7- tomorrow  every boday please create git accout and share me in the google classrrom so that i can review them 
+8- i want everybody please install the git 
+
+steps to download class notes 
+--
+once the update the note 
+1- once you enrolled you will reve email from us & areef wil update you 
+2- winrar or winzip  download and install 
+3- click the file which recive 
+---
+
+==== 10th 
+
+learnes who joined for the first time i iwll share 6days recording please complete them today 
+along with software installation & today onwards your classes started 
+
+Small homework -- previouse classes and software installation 
+If anyone has any question i will discuss at end of the session 
+
+software list -- vs code & anaconda 
+	if you not install areef sir will share the installation video to you . please insta it 
+	
+	
+=== 10th
+1- revies once day-1 what we finished so far
+2- datatypes 
+3- print()
+4- question & answer 
+------
+
+0- software installation completed --
+1- introduction to python 
+2- python variable we are completed 
+
+
+variable = value 
+
+1- we understand variable well 
+2- today we will discuss value 
+		value are called as datatypes 
+		
+3- python values or python datatypes 
+		integer value == int dataype 
+		float value == float datatype 
+		boolean value == bool dataype 
+		complex value == complex datatype 
+		string value == string datatype 
+	
+compile time error -- if error happes for user side 2+3 5
+logical error  -- 2+3 = 4
+runtime error - no compile time error. no logical error 
+	
+function ends with () 
+car = 'bmw' (variable) 
+cars('bmw', 'audi')  -- bmw & audi is called argument or parameter 
+
+=== 3 fuction 
+
+family() -- function with no argument 
+family1(d, m) -- function with 2 argument 
+family2(da, m, s, d) -- funcation with 4 argumen take
+gpt() -- 450 billion parameter 
+
+
+python function 2 part 
+	inbuild function -- print() max() min() len() id(), type()  
+	user define function 
+
+		
+variable & function -- will you explain 
+		variable must define with value e.g | a = 5
+		function must define with () 
+
+hey user if you need only 1line code is there the do not use print ouput (print is not required) 
+if you wnat to multiple output then print() is must required 
+
+why you are not using print 
+
+ 
+technical wording -- then interview will clear 
+varaible , object, identifier
+functon 
+funciton with argument 
+funcation without argument
+argument == parameter 
+
+class , method, function, var
+
+clearn understanding variable vs function 
+when to use print() 
+
+--
+Python datatypes -->
+---
+integer -- value without decimal is called integer
+float -- valu with decimal
+		float we will only e letter ( exponential ) 
+
+bool -- True , False | if you add True + False ( True - 1 | False - 0)
+to fix this type of error we will be introduce exceptional handling 
+try except finally -- i will teach you later 
+
+complex -->
+	no other programing language has complex datatypes except python 
+complex we will be using in lot math application, linear algebrar , trigonrary 
+
+comple -->
+
+	real part & imaginary part 
+	
+10 + 20j 
+
+when you learn new subject brain will through bunch of question -- if your 
+first follwo me then work automatriunderstan next 
+
+int | float | bool | complex = real & imaginary 
+
+python if you call any funciton you must need to call with . 
+
+=== 11th
+
+6th session we are completed 
+qr code -- course syllabus, last 6day srecording so that you didnt miss any single topics 
+last 5-10 min i will cover thebackup classes -- 
+
+in python if we call any function mostly we call with . tab  -- it will disply all the functionly give by python
+
+why python is dynamic programing language 
+real + real only | 
+
+non technical -- number ( int) 
+text -- string (char) 
+
+string must has to declare with  ' ' | "  " | '''    ''' 
+
+' ' & " " -- works when you have single line comment 
+''' ''' -- you need to use this when you have multiline comment 
+
+youtube commnet, insta, moie -- ''' ''' 
+
+string indexing -->
+	python index begins with 0 
+
+indexing is divident into 2 part -->
+	forward indexing -- >>>>> alwasy start from (left - right) count from 0 
+	backward indexing --- <<<<<< alwasy start from right -lef count from -1  
+	
+---
+INBUILD () -->
+---
+type() -- it will give you type of the varibel  
+id() -- address of memory loacation | it will addres of the variable 
+len() -- count the letter 
+print() -- print the statement | show the statment at output screen 
+
+
+STRING INDEXING -- did you team clear
+STRING SLICING -- : 
+
+[:]  --- print all string  -- clear 
+
+[3:] -- left index starting from 3rd till last   -- clear
+
+[:6] -- from start index to n-1 (5th index) 
+
+[2:9] -- from 2nd index to 8th index 
+
+[2: 9: 2] -- from 2nd index to 8th index but you need to only 2nd step index  
+
+[: : 1]   [: : 2] [: : 3]
+
+[: : -1 ]  [: : -2] [: : -3 ]
+
+===  12th 
+
+AGENDA -->
+
+1-  How to donwload notes from google classroom 
+2- How to learner can upload the document to the classroom 
+3- string index we will complete today 
+4- print() 
+5- python operator 
+6- learner who joined for the 1st time please staty i will recap everhting today since day1 
+
+ 
+jupyter you can work in azur cloude  -- python with jupyter 
+databricks -- dataenginnering platfrom also -- can work jupyter platform 
+start with python with ai, ds, gen ai, agent -- jupyter, spyder, vs code 
+
+forward slicing yesterday we discussed forward indexing 
+backwards slicing 
+
+python -->
+--
+
+1- software installation 
+2- python variable & rules to define python variable 
+3- python datatype 
+4- indexing & slicing in string 
+5- scaler, vector, matrix, tensor, table -- just intro 
+
+			tensor -- collection of matrix  ( pytorch)
+	       matrix -- collection of vector (numpy) 
+vector - collection of scaler 
+scalar - singe value 
+
+
+== all other datatype to int type casting ==
+
+int(2.3)  == 2  # flaot to int conversion
+int(True) == 1 # bool to int conversion 
+int(1+2j) == # error -- complex - int type casting is not possible 
+int('10') == 10 # str to int possile 
+int('ten') # text string will not casting from string to int only number string type casting vali 
+type casting user or dveoper should not pass more then 1 argument 
+
+# all other datatype to float castin is possible except text string & complex 
+# all other dataype to bool possible no issue at all on type casting 
+
+online -- what i notice  (travel-- listen ) 
+		kid- listen 
+	
+2026 -- ai, gen ai, agentic ai  
+2027 - cloud 
+2028 -- data enginer 
+after you get small job 
+2029 - dsa, system desin
+
+
+70 y r- 60yr - 50yr 
+25 -- software devloer 
+4yr you spent on yourself -- 40r you will enjoy 
+
+== my class explanation 
+		basic python 
+		advane python 
+		oops python 
+
+=== i will share one link for dsa learning 
+=== geeksfor geeks 
+=== hackerrank 
+=== leetcode 
+=== system design link 
+
+4yr ( lazy learner) 
+
+		other dataype to int, float, bool 
+		
+technicla little less -- 
+
+session goes one 
+
+1:15 min --  subject 
+15min -- questin and ansowe
+continuse reguarly 
+
+==== 13th 
+Agendas -->
+--
+1- type casting - Done 
+2- Python operators 
+3- Number system 
+4- Bitwise operator 
+
+type casting string to complex ()
+		user must need to pass only 1 string '' if we pass other string then we got error 
+		
+
+all other datatype to int & float except (complex & string text)
+all other datatype to Bool except (no issue ) | non zero argument -- true | zero argument -- false 
+all other datatype to complex  except (use cannot declare 2 string together )
+all other datatype to string  (except text string )
+		implicit type casting -- automatic conversion  
+		explicit type castin g-- manual conversion 
+
+operator overloading -- part of polymorphism -- oops 		
+
+python basic operator -->
+
+	arithmetic operator  == + - * / // % **
+	assignment operator == += -= *= /= 
+	unary operator - negation 
+	realational operator  > < >= <= == != 
+	logical operator -- and or not 
+	
+and --> 1 and 1 - 1 | or --> 0 or 0 -- 0 
+
+=== print() very very powerfull  | 	prompt engineering  
+
+
+==== 13th 
+
+1- print result with string 
+			make sure do not make variable to string 
+
+=== 16th 
+
+Number system  -- without number syste bitwise operato you cannot understand 
+Bitwise operator 
+---
+Number system -->
+---
+binary number system (0b) || 0 & 1
+octal number system (0o) || 0, 1, 2, 3, 4, 5, 6, 7
+decimal number system (0x) | 0,1,2 -- 9 
+hexadecimal number system(0x) -- 0 to 9 a- 10, b-11, c-12, d-13, e-14, f-15 
+
+bin(25) -- convert number to binyar number system 
+int(0b11001) - convert binary number system to number 
+	it will take only 2 value which are 0 & 1 thats it. 
+	
+	
+Oct(25) -- convert number to octal number system 
+int(0o31) -- convert octal to number 
+
+decimal & hexadecima 
+	0x - ox
+
+=== 
+
+everysystem ip addres must by written in number system -- hexadecimal 
+we must need to learn number sytem before we start bitwise operator 
+----
+BIT WISE OPERATOR -->
+----
+complement ~ 
+and (& )
+or (|)
+xor xclusive or (^)
+left shift (<<)
+right shift(>>)
+
+
+complement operation -- user need to add + 1 and output value will return as 16 = -17
+
+and operator or operator 
+& | 
+xor (xclusive or) 0 ^ 0 - 0 | 1 ^ 1- 0 | 0 ^ 1 - 1 | 1 ^ 0 - 1 
+left shift <<  we gain the bit ( 0s we will gain 
+right shfit >> we loose the bit  ( loose the bit 
+
+bitwise operator we are completed 
+
+=== 
+
+basic python we are continue 
+
+
+work on python opearator & bitwise operator 
+
+and  & 
+or 
+
+weak mindset -- most of fresher will be scary by give work by me -- 
+	i cant finish  | dont worry 
+	
+please complete teh class explanation code 
+
+ 1 2 3 
+  3 2 1 
+
+=== print() 
+1- print() string 
+2- print Format method 
+			.format () numer of variable == number of {} .format(number varibale)
+3- More short format meythod(f string method) 
+		everytime you no need to .format ( short ) 		
+				f string -- {varaibl} flower bracket
+
+4- print() with end statment 
+
+=== 17th 
+
+
+
+
+
+
+=== Secreate Hack
+
+1st time -- see  the code & understand teh code type it 2 time 
+2nd time -- evnin gnext dta -- plese dont see type ( forget everything ) -- please thinkg agagin do not see the code | solve 
+1week -- please watch it 
+
+=== COMPLETED TOPICS 
+  
+1- demo session we are completed 
+2- python introduction 
+3- python variable 
+4- Indexing & slicing 
+5- Type casting 
+
+----
+ERROR TYPES -->
+---	
+syntax error -- error which happens from user side 	
+name error -- 
+type error 
+index error 
+
+
+=====
+Whats app qr code link -->
+https://chat.whatsapp.com/G9KnhtzCzegAd6ar0OjhBu
+
+===== 
+Full Stack Data Science & AI Lab - 1
+Meeting Link: https://nareshit.zoom.us/j/86433658207
+Password: 112233
+
+Full Stack Data Science & AI Lab - 2
+Meeting Link: https://nareshit.zoom.us/j/82068816627
+Password: 112233
+
+=== Admin’s Details: For fee related query 
+Online Admin’s -> +91 9133343369 Leena Renuka Sri Mam  
+Whatsapp Message: +91 9154861173 Areef Admin Only Whatsapp 
+Offline Admin -> Bheem Sir,
+
+=====
+*👉 Backup Video:*
+ Day-1 https://youtu.be/eLFYKDISOuQ
+ Day-2 https://youtu.be/Psqq3NXDBy4
+ Day-3 https://youtu.be/LfasuLs4S4k
+ Day-4 https://youtu.be/eDPiaRlk_bc
+ Day-5 https://youtu.be/LcKRI7tGDV8
+ Day-6 https://youtu.be/7fQqgzk92aE
+ Day-7 https://youtu.be/VDAF6oFWe8o
+ Day-8 https://youtu.be/J6TlKyLKBns
+
+
+
+
+
+
+ 
+ 
+📂 *Course Content* : https://drive.google.com/file/d/1ThjfPAbqECI8wTnFLUvqpAHQfd_lbXp6/view?usp=drive_link
+
+
+ 
+
+
+
+
+
+
